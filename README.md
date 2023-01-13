@@ -1,7 +1,8 @@
 ## Community Comments and Testimonials Page
 
 ## To Start
-+ Run `npm start`. No need to run `npm install` as no packages were added to this repo.
++ Run `npm install`.
++ Run `npm start`.
 
 ### Notes
 
